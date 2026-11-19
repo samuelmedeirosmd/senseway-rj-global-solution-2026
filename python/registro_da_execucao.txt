@@ -1,0 +1,47 @@
+================================================
+  SenseWay RJ · Madureira - Rio de Janeiro
+================================================
+
+1 - Ver todas as leituras classificadas
+2 - Resumo das leituras
+3 - Consultar uma leitura
+0 - Sair
+Escolha uma opção: 
+Distância até o obstáculo em Madureira - Rio de Janeiro:
+  Leitura 01: 220 cm -> LIVRE
+  Leitura 02: 180 cm -> LIVRE
+  Leitura 03: 150 cm -> LIVRE
+  Leitura 04: 121 cm -> LIVRE
+  Leitura 05: 120 cm -> ATENÇÃO
+  Leitura 06: 95 cm -> ATENÇÃO
+  Leitura 07: 72 cm -> ATENÇÃO
+  Leitura 08: 50 cm -> PRÓXIMO
+  Leitura 09: 38 cm -> PRÓXIMO
+  Leitura 10: 25 cm -> PRÓXIMO
+  Leitura 11: 65 cm -> ATENÇÃO
+  Leitura 12: 145 cm -> LIVRE
+  Leitura 13: 0 cm -> FALHA
+
+1 - Ver todas as leituras classificadas
+2 - Resumo das leituras
+3 - Consultar uma leitura
+0 - Sair
+Escolha uma opção: 
+Média das distâncias: 106.75 cm
+Maior distância: 220 cm
+Leituras em alerta: 7 de 12 (58.3%)
+Leituras inválidas: 1
+AVISO: Obstáculo muito próximo! Tenha cuidado.
+
+1 - Ver todas as leituras classificadas
+2 - Resumo das leituras
+3 - Consultar uma leitura
+0 - Sair
+Escolha uma opção: Número da leitura (1 a 13): Leitura 13: 0 cm -> FALHA
+AVISO: Falha na leitura. Não considerar o caminho livre.
+
+1 - Ver todas as leituras classificadas
+2 - Resumo das leituras
+3 - Consultar uma leitura
+0 - Sair
+Escolha uma opção: Encerrando o SenseWay RJ. Até logo!
